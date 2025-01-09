@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/97aa262a-ae3a-4831-ac64-423937f85f3d/resourceGroups/CardGame/providers/Microsoft.Web/sites/CardGameServer1",
+    "appService.deploySubpath": "."
+}
