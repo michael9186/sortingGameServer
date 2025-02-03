@@ -75,6 +75,7 @@ router.get('/available', (req, res) => {
 });
 
 router.get('/start', (req, res) => {
+  submissions = [];
   const { key } = req.query;
 
   if (!key) {
